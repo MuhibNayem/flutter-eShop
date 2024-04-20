@@ -24,6 +24,7 @@ dependencies:
   http: ^1.1.0
   connectivity_plus: ^2.0.2
   flutter_native_splash: ^2.3.2
+  smooth_page_indicator: ^1.1.0
   firebase_core: ^2.30.0
   firebase_storage: ^11.7.2
 
@@ -48,8 +49,8 @@ flutter:
   #--------------- LOCAL ASSETS -------------------#
   assets:
     - assets/logos/
-    - assets/icons/
-    - assets/images/
+    - assets/icons/brands/
+    - assets/images/on_boarding_images/
 
   #--------------- LOCAL FONTS -------------------#
   fonts:
